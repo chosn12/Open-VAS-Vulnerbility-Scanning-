@@ -7,7 +7,7 @@
 
     - This downloads and installs docker desktop to applications
 
-<img width="600" height="500" alt="" src=""/>
+<img width="600" height="500" alt="Install Docker" src=""/>
 
 ## 2. Start Docker Desktop:
   - In Terminal
@@ -17,7 +17,7 @@
     - This will open docker desktop allowing it will run in the background
     - Docker must be running to use docker commands
 
-<img width="600" height="500" alt="" src=""/>
+<img width="600" height="500" alt="Start Docker" src=""/>
 
 ## 3. Verify Docker Installation:
   - In Terminal
@@ -29,6 +29,6 @@
     - This will display the version of docker and message verifying the status of you installation
 
 
-<img width="600" height="500" alt="" src=""/>
+<img width="600" height="500" alt="Docker version" src=""/>
 
-<img width="600" height="500" alt="" src=""/>
+<img width="600" height="500" alt="Hello World Docker" src=""/>
