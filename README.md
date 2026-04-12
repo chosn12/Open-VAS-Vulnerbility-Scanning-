@@ -48,11 +48,13 @@
     ***`docker compose -f docker-compose.yml up -d`***
       - Launches OpenVas by downloading images and starts the services running in the background
    
-    <img width="800" height="1000" alt="Greenborn Repo" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/70f56cbd30c8bc933148ea253a00bb8af014f1c2/screenshots/greenbone%20repo.png"/>
+   <img width="800" height="1000" alt="Greenborn Repo" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/70f56cbd30c8bc933148ea253a00bb8af014f1c2/screenshots/greenbone%20repo.png"/>
 
   - Open a web browser
     ***`https://localhost`***
-      - log in to the web interface of OpenVAS with admin and password and user name. Change the password after set up 
+      - log in to the web interface of OpenVAS with admin and password and user name. Change the password after set up
+   
+   <img width="800" height="1000" alt="localhost" src=""/>
 
 
 
@@ -62,4 +64,4 @@
     ***`docker compose exec -u gvmd gvmd gvmd --user=admin --new-password='YourPasswordHere'`***
       
 
-    <img width="800" height="1000" alt="Change Password" src=""/>
+  <img width="800" height="1000" alt="Change Password" src=""/>
