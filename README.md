@@ -1,4 +1,4 @@
-# Open VAS Vulnerbility Scanning
+# :mag: Open VAS Vulnerbility Scanning
 
 ## 1. Install Docker:
   - In Terminal
