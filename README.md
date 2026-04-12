@@ -92,7 +92,7 @@
   - Once the scan is complete
       - Click the date of the desired report
 
-The report is arranged by categories according to the clickable tabs at the top of the report
+The report is arranged by categories tabs 
 
 
 <img width="800" height="1000" alt="Report" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/039ee951ff8ad4f54ece6086238f84fdadd9158e/screenshots/Report.png"/>
