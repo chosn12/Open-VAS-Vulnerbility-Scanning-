@@ -48,7 +48,7 @@
     ***`docker compose -f docker-compose.yml up -d`***
       - Launches OpenVas by downloading images and starts the services running in the background
    
-    <img width="800" height="1000" alt="Greenborn Repo" src=""/>
+    <img width="800" height="1000" alt="Greenborn Repo" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/70f56cbd30c8bc933148ea253a00bb8af014f1c2/screenshots/greenbone%20repo.png"/>
 
   - Open a web browser
     ***`https://localhost`***
