@@ -29,6 +29,6 @@
     - This will display the version of docker and message verifying the status of you installation
 
 
-<img width="600" height="500" alt="Docker version" src=""/>
+<img width="800" height="1000" alt="Docker version" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/edd89bcd50ef71da515c264daefa00fdf172edf9/screenshots/docker%20version.png"/>
 
-<img width="600" height="500" alt="Hello World Docker" src=""/>
+<img width="800" height="1000" alt="Hello World Docker" src=""/>
