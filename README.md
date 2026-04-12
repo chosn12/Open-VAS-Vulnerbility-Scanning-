@@ -54,7 +54,7 @@
     ***`https://localhost`***
       - log in to the web interface of OpenVAS with admin and password and user name. Change the password after set up
    
-   <img width="800" height="1000" alt="localhost" src=""/>
+   <img width="800" height="1000" alt="localhost" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/e88da944550de544b9756b794f2c8cef9c04d905/screenshots/localhost.png"/>
 
 
 
