@@ -70,6 +70,33 @@
   <img width="800" height="1000" alt="Change Password" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/16568232b6613d240cfe5a51583c7d3d5b80c520/screenshots/change%20password.png"/>
 
 
+
+# Scanning Metasploitable2 VM
+
+## :one: Log into OpenVas 
+  - Type https://localhost in a web browser
+  - Log in 
+   
+
+## :two: Start Scan
+  - Click scan on the left sidebar
+  - Select Tasks
+  - Click the task wizard icon (wand)
+      - Select Advanced Task Wizard
+        -  Enter the task name
+        -  Select Scan Configuration
+        -  Enter Target Host IP Address (Metasploitable2)
+  - Click Create
+
+## :three: Retreive Report
+  - Once the scan is complete
+      - Click the date of the desired report
+
+The report is arranged by categories according to the clickable tabs at the top of the report
+
+
+ <img width="800" height="1000" alt="Report" src=""/>
+
 # :x: Summary
   - Docker must be running to execute any docker commands
   - OpenVas can only be run from the folder containing the `docker-compose.yml` file
