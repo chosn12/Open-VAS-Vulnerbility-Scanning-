@@ -67,4 +67,4 @@
     ***`docker compose exec -u gvmd gvmd gvmd --user=admin --new-password='YourPasswordHere'`***
       
 
-  <img width="800" height="1000" alt="Change Password" src=""/>
+  <img width="800" height="1000" alt="Change Password" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/16568232b6613d240cfe5a51583c7d3d5b80c520/screenshots/change%20password.png"/>
