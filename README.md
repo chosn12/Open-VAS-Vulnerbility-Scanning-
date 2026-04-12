@@ -17,7 +17,7 @@
     - This will open docker desktop allowing it will run in the background
     - Docker must be running to use docker commands
 
-<img width="600" height="500" alt="Start Docker" src=""/>
+<img width="800" height="1000" alt="Start Docker" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/b97113b17e46060152c95fec6fddfa73d8ea08af/screenshots/start%20docker.png"/>
 
 ## 3. Verify Docker Installation:
   - In Terminal
