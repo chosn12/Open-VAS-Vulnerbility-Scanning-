@@ -104,6 +104,6 @@ The report is arranged by categories tabs
 <img width="1000" height="1400" alt="Report" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/abc38f6b82be4806699c47007e4aa4bea5fe5b6f/screenshots/OpenVas%20Report.png"/>
 
 # :x: Summary
-  - Docker must be running to execute any docker commands
-  - OpenVas can only be run from the folder containing the `docker-compose.yml` file
+  - Docker must be running to execute any docker commands in terminal
+  - OpenVas can only run from the folder containing the `docker-compose.yml` file
   - https://localhost is the secure site to log into OpenVAS
