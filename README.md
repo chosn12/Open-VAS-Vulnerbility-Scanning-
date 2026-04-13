@@ -101,7 +101,7 @@
 The report is arranged by categories tabs 
 
 
-<img width="600" height="1400" alt="Report" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/039ee951ff8ad4f54ece6086238f84fdadd9158e/screenshots/Report.png"/>
+<img width="1000" height="1400" alt="Report" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/abc38f6b82be4806699c47007e4aa4bea5fe5b6f/screenshots/OpenVas%20Report.png"/>
 
 # :x: Summary
   - Docker must be running to execute any docker commands
