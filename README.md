@@ -86,7 +86,13 @@
         -  Enter the task name
         -  Select Scan Configuration
         -  Enter Target Host IP Address (Metasploitable2)
+       
+        
+<img width="1000" height="1400" alt="Create Task" src=""/>
+
   - Click Create
+
+<img width="1000" height="1400" alt="Task Wizard" src=""/>
 
 ## :three: Retreive Report
   - Once the scan is complete
