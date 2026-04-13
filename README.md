@@ -92,7 +92,7 @@
 
   - Click Create
 
-<img width="1000" height="1400" alt="Task Wizard" src=""/>
+<img width="1000" height="1400" alt="Task Wizard" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/419b6d3debd1bc2123c5c595555bfaf71aab0952/screenshots/Task%20Wizard.png"/>
 
 ## :three: Retreive Report
   - Once the scan is complete
