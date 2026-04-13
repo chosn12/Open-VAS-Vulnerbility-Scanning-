@@ -88,7 +88,7 @@
         -  Enter Target Host IP Address (Metasploitable2)
        
         
-<img width="1000" height="1400" alt="Create Task" src=""/>
+<img width="400" height="800" alt="Create Task" src="https://github.com/chosn12/Open-VAS-Vulnerbility-Scanning-/blob/ca31ff3266e894a015021b63f4dc5b93a08bab6c/screenshots/Create%20Task.png"/>
 
   - Click Create
 
